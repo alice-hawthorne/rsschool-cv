@@ -9,7 +9,5 @@ HTML5, CSS3, JS, AngularJS, Bootstrap
 #### Education:
 **Self-education** (codecademy, edX, freecodecamp, etc.)<br/>
 **Belhard IT-Academy courses** (Frontend using HTML5 & JS)
-#### English level: 
-**B1**
-#### Korean level: 
-**A1**
+#### English level: **B1**
+#### Korean level: **A1**
